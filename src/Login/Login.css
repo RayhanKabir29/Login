@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Roboto&display=swap");
+.login-info {
+  padding: 20px 0;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+.left-site {
+  background-image: url(../../public/img/bg.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 35px 0 20px;
+}
+.login-img img {
+  height: 670px;
+}
+.right-site {
+  margin-top: 32px;
+  margin-left: -100px;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.explore {
+  color: #473558;
+  text-align: left;
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+}
+.forget {
+  text-align: right;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  margin-right: -18px;
+}
+.submit_btn {
+  background-color: #3e489a !important;
+}
+.fb img,
+.google img {
+  width: 40px;
+}
+.signup a {
+  display: inline;
+  padding: 0;
+  color: #20b8f1;
+}
+.alternate {
+  height: 1px;
+  width: 120px;
+  background: #333;
+}
+.divider {
+  margin-top: -12px;
+}
