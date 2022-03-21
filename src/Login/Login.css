@@ -61,7 +61,7 @@ a {
 .divider {
   margin-top: -12px;
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (min-width: 320px) {
   .right-site {
     margin-left: 0px;
   }
@@ -69,8 +69,11 @@ a {
     font-size: 16px;
   }
 }
-@media only screen and (max-width: 760px) {
+@media only screen and (min-width: 765px) {
   .right-site {
     margin-left: 0px;
+  }
+  .explore {
+    font-size: 29px;
   }
 }
