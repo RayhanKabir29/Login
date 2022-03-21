@@ -75,7 +75,12 @@ a {
     text-align: center;
   }
   .explore {
-    font-size: 27px;
+    font-size: 24px;
     text-align: center;
+  }
+}
+@media only screen and (min-width: 766px) {
+  .right-site {
+    margin-left: -100px;
   }
 }
