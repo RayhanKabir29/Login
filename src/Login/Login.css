@@ -61,7 +61,7 @@ a {
 .divider {
   margin-top: -12px;
 }
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 480px) {
   .right-site {
     margin-left: 0px;
   }
