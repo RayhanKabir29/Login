@@ -72,8 +72,10 @@ a {
 @media only screen and (min-width: 480px) {
   .right-site {
     margin-left: 0px;
+    text-align: center;
   }
   .explore {
     font-size: 27px;
+    text-align: center;
   }
 }
