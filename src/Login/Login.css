@@ -69,11 +69,11 @@ a {
     font-size: 16px;
   }
 }
-@media only screen and (min-width: 765px) {
+@media only screen and (min-width: 480px) {
   .right-site {
     margin-left: 0px;
   }
   .explore {
-    font-size: 29px;
+    font-size: 20px;
   }
 }
